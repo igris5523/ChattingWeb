@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChattingWeb/static/css/main.84b5acbd.css",
+    "main.js": "/ChattingWeb/static/js/main.d59ed25d.js",
+    "static/js/787.e377bf2b.chunk.js": "/ChattingWeb/static/js/787.e377bf2b.chunk.js",
+    "static/media/z2.jpg": "/ChattingWeb/static/media/z2.4fcaf97d24b91c0cc03e.jpg",
+    "index.html": "/ChattingWeb/index.html",
+    "main.84b5acbd.css.map": "/ChattingWeb/static/css/main.84b5acbd.css.map",
+    "main.d59ed25d.js.map": "/ChattingWeb/static/js/main.d59ed25d.js.map",
+    "787.e377bf2b.chunk.js.map": "/ChattingWeb/static/js/787.e377bf2b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.84b5acbd.css",
+    "static/js/main.d59ed25d.js"
+  ]
+}
